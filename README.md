@@ -1,4 +1,4 @@
-#pyCOLTRIMS
+# pyCOLTRIMS
 
 pyCOLTRIMS is a very much in-progress python framework(ish) for doing data processing from data taken on a COLTRIMS. 
 This is amazingly specialized for the way we can output data in a .bin file from our sever.
